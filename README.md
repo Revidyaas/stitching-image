@@ -1,5 +1,5 @@
 # stitching-image
-Membahas proses image stitching tanpa MPI (CMD, VSCode, Ubuntu Desktop)
+Membahas proses image stitching tanpa MPI
 
 ### Buat Sebuah Folder Sebuah folder yang berisi potongan-potongan gambar, codingan python, serta output gambar.
 * Di Windows
@@ -8,12 +8,8 @@ letak direktori :
 > C:\image-stitching-opencv Tugas Besar(1)\image-stitching-opencv Tugas Besar
 
 ![image1]()
-* Di Ubuntu Server
 
-letak direktori :
-> /home/harrypotter/Voldemort/image-stitching-opencv Tugas Besar/ image-stitching-opencv Tugas Besar
 
-![image2]()
 ### Gambar yang digunakan
 ![image3]()
 ![image4]()
