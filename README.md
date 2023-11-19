@@ -7,12 +7,11 @@ Membahas proses image stitching tanpa MPI
 letak direktori :
 > C:\image-stitching-opencv Tugas Besar(1)\image-stitching-opencv Tugas Besar
 
-![image1]()
-
+![image1](https://user-images.githubusercontent.com/150003742/284070391-ff648eb1-920a-4aff-a668-967cb73fcddf.png)
 
 ### Gambar yang digunakan
-![image3]()
-![image4]()
+![image2](https://user-images.githubusercontent.com/150003742/284070032-d86434a4-c777-47a4-a2b9-b4885a9f7e5c.png)
+![image3](https://user-images.githubusercontent.com/150003742/284070042-4a7700e5-19b0-47c0-81e7-b1ab6b2da9dc.png)
 ### Program python yang di gunakan
 ```
 # USAGE
@@ -97,3 +96,5 @@ else:
 # ... (existing code)
 
 ``` 
+### Lakukan penginstallan berikut : 
+```pip install imutils```dan ```pip install opencv-python```dan ```pip install numpy```
