@@ -98,3 +98,16 @@ else:
 ``` 
 ### Lakukan penginstallan berikut : 
 ```pip install imutils```dan ```pip install opencv-python```dan ```pip install numpy```
+
+### Buka direktori image-stitching-opencv Tugas Besar pada cmd
+gunakan command 
+```cd /path direktori/```
+
+contoh : cd C:\image-stitching-opencv Tugas Besar\image-stitching-opencv Tugas Besar
+
+### jalankan program 
+gunakan command 
+```python image_stitching_simple.py --images images/scottsdale --output output.png```
+![images4]()
+### Output
+![images5]()
