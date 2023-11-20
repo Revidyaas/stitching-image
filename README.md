@@ -108,6 +108,6 @@ contoh : cd C:\image-stitching-opencv Tugas Besar\image-stitching-opencv Tugas B
 ### jalankan program 
 gunakan command 
 ```python image_stitching_simple.py --images images/scottsdale --output output.png```
-![images4]()
+![images4](https://user-images.githubusercontent.com/150003742/284118670-5dd70f94-cb23-4592-aa9b-5efc86a9243c.jpg)
 ### Output
-![images5]()
+![images5](https://user-images.githubusercontent.com/150003742/284118709-6a7ab100-c869-416b-b325-1815b117b175.jpg)
